@@ -34,10 +34,10 @@ def main():
                     print("Your package is too large.")
             else:
                 # output
-                print("Your package is too weight.")
+                print("Your package is too heavy.")
         else:
             # output
-            print("Your package is too weight and too large.")
+            print("Your package is too heavy and too large.")
     except Exception:
         # output
         print("Your input is not a valid input.")
